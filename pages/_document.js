@@ -8,7 +8,6 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap"
           rel="stylesheet"
         />
-        <title>Your Page Title</title>
       </Head>
       <body className="font-poppins">
         
