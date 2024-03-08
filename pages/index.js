@@ -9,7 +9,7 @@ import { IoDocuments } from "react-icons/io5";
 import Footer from "../components/Footer";
 import ProjectsSection from "../components/ProjectsSection";
 import Service from "../components/Service";
-import deved from "../public/dev-ed-wave.png";
+import deved from "../public/Websites/dev-ed-wave.png";
 
 
 export default function Home() {
@@ -47,9 +47,7 @@ export default function Home() {
               2nd-year BTech CSE student passionate about MERN stack development. Let's collaborate to build dynamic web applications and turn ideas into reality with MERN!
             </p>
             <div className="text-5xl mb-5 flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-              <a href={"https://wa.me/+919662391342"} target="_blank" rel="noreferrer">
-                <IoLogoWhatsapp />
-              </a>
+
               <a href={"https://www.linkedin.com/in/parag-vadgama-1265b42a3/"} target="_blank" rel="noreferrer">
                 <AiFillLinkedin />
               </a>
