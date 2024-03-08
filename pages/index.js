@@ -8,8 +8,8 @@ import { IoDocuments } from "react-icons/io5";
 import Footer from "../components/Footer";
 import ProjectsSection from "../components/ProjectsSection";
 import Service from "../components/Service";
-// import deved from "../public/Websites/dev-ed-wave.png";
-import deved from "../public/parag.png";
+import deved from "../public/Websites/dev-ed-wave.png";
+// import deved from "../public/parag.png";
 
 
 export default function Home() {
