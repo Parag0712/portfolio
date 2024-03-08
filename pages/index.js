@@ -4,12 +4,12 @@ import {
   AiFillGithub,
   AiFillLinkedin
 } from "react-icons/ai";
-import { IoLogoWhatsapp } from "react-icons/io";
 import { IoDocuments } from "react-icons/io5";
 import Footer from "../components/Footer";
 import ProjectsSection from "../components/ProjectsSection";
 import Service from "../components/Service";
-import deved from "../public/Websites/dev-ed-wave.png";
+// import deved from "../public/Websites/dev-ed-wave.png";
+import deved from "../public/parag.png";
 
 
 export default function Home() {
@@ -59,7 +59,7 @@ export default function Home() {
               </a>
 
             </div>
-            <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 mb-20 sm:mt-0 md:h-96 md:w-96">
+            <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 mb-20 sm:mt-0 md:h-[350px] md:w-[350px]">
               <Image src={deved} layout="fill" objectFit="cover" />
             </div>
           </div>
