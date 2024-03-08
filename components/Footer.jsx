@@ -16,7 +16,7 @@ function Footer() {
                     <div className="w-auto p-8">
                         <div className="-m-1.5 flex flex-wrap">
                             <div className="w-auto p-1.5">
-                                <a href="https://wa.me/+919662391342" target='_blank'>
+                                <a href="https://wa.me/+919662391342" target='_blank' rel="noreferrer">
                                     <div className="flex h-8 w-8 items-center justify-center rounded-full border border-gray-300 hover:border-gray-400">
                                         <FaWhatsappSquare />
                                     </div>
